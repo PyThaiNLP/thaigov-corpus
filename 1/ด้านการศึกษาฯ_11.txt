@@ -1,0 +1,85 @@
+﻿รัฐบาลไทย-ข่าวทำเนียบรัฐบาล-นำเข้าวีดีโอ
+
+
+
+
+
+
+
+                                วันจันทร์ที่ 19 กันยายน 2559                              
+
+
+
+
+
+    21  
+
+
+
+
+
+
+
+ $("#video-player3").css("background-color", "#000000");
+
+
+var container = document.getElementById("video-player3");
+
+  flowplayer.conf = {
+    share       :false,  // --> set share button 
+    // facebook    :true,
+    // ratio       :9/16,    // --> set ratio
+    // seekable    :true,
+    // autoplay    :false,
+    // splash   : true,
+    // chromecast  :true,
+    // auto quality
+    // hlsQualities:true,
+    poster      :"", //poster
+    // swf         :"flowplayer.swf",
+    // hlsQualities:[{level: -1, label: "ABR"},{level: 1, label: "SD"}, {level: 6, label: "HD"}],
+  };
+
+flowplayer(container, {
+    clip: {
+        sources: [
+              { 
+                // type: "video/mp4",//ถ้า เป็น streamming application/x-mpegurl
+                // src:  "vod/testcar.mp4" 
+
+                // type: "application/x-mpegurl",
+                // file: "smil.php?filename=hp_2.mp4/playlist.m3u8",
+
+                
+                 type: "video/mp4",//ถ้า เป็น streamming application/x-mpegurl
+                 src:  "vod/Pixar_Short_Film_-_Kurzfilm_Kiwi.mp4"
+            
+              }
+        ],
+        title: "นำเข้าวีดีโอ",
+        // qualities: ["160p", "260p", "530p", "800p"],
+        // defaultQuality: "260p"
+    }
+
+});
+
+
+
+
+
+
+
+   นำเข้าวีดีโอ
+ 
+
+   นำเข้าวีดีโอ 
+
+
+
+
+
+   นำเข้าวีดีโอ 
+
+
+
+ที่มา : http://www.thaigov.go.th/news/contents/details/197

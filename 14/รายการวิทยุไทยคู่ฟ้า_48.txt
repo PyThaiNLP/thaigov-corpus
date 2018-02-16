@@ -1,0 +1,98 @@
+﻿รัฐบาลไทย-ข่าวทำเนียบรัฐบาล-รัฐบาลให้นักลงทุนเช่าที่ EEC ตามแนวทางกฎหมายที่มีอยู่เดิม
+
+
+
+
+
+
+
+                                วันศุกร์ที่ 21 เมษายน 2560                              
+
+
+
+
+
+    245  
+
+
+
+
+
+      พิมพ์    
+     
+    
+
+
+
+
+
+
+
+
+
+
+ $("#video-player3").css("background-color", "#000000");
+
+
+var container = document.getElementById("video-player3");
+
+  flowplayer.conf = {
+    share       :false,  // --> set share button 
+    // facebook    :true,
+    // ratio       :9/16,    // --> set ratio
+    // seekable    :true,
+    // autoplay    :false,
+    // splash   : true,
+    // chromecast  :true,
+    // auto quality
+    // hlsQualities:true,
+    poster      :"https://media.thaigov.go.th/uploads/thumbnail/news/2017/04/3196_S__4808724.jpg", //poster
+    // swf         :"flowplayer.swf",
+    // hlsQualities:[{level: -1, label: "ABR"},{level: 1, label: "SD"}, {level: 6, label: "HD"}],
+  };
+
+flowplayer(container, {
+    clip: {
+        sources: [
+              { 
+                // type: "video/mp4",//ถ้า เป็น streamming application/x-mpegurl
+                // src:  "vod/testcar.mp4" 
+
+                // type: "application/x-mpegurl",
+                // file: "smil.php?filename=hp_2.mp4/playlist.m3u8",
+
+                
+                 type: "video/mp4",//ถ้า เป็น streamming application/x-mpegurl
+                 src:  "https://media.thaigov.go.th/uploads/vod/155/2017/04/mp3/02_รัฐบาลให้นักลงทุนเช้าที่ EEC.mp3"
+            
+              }
+        ],
+        title: "รัฐบาลให้นักลงทุนเช่าที่ EEC ตามแนวทางกฎหมายที่มีอยู่เดิม",
+        // qualities: ["160p", "260p", "530p", "800p"],
+        // defaultQuality: "260p"
+    }
+
+});
+
+
+
+
+
+
+
+   รัฐบาลให้นักลงทุนเช่าที่ EEC ตามแนวทางกฎหมายที่มีอยู่เดิม
+ 
+
+   การเช่าพื้นที่ใน EEC ของนักลงทุน เป็นไปตามกฎหมายที่ประเทศไทยดำเนินการมาตั้งแต่ปี 2542 ไม่ได้เป็นการบัญญัติขึ้นใหม่แต่อย่างใด 
+
+
+
+
+
+   หัวใจสำคัญของการขับเคลื่อนเศรษฐกิจในพื้นที่เขตพัฒนาพิเศษภาคตะวันออกหรือ EEC คือการดึงดูดนักลงทุนจากทั่วโลกให้เข้ามาประกอบธุรกิจในพื้นที่ ซึ่งนอกเหนือจากมาตรการส่งเสริมการลงทุนแล้ว ยังมีระยะเวลาให้นักลงทุนต่างชาติสามารถเช่าที่ดินเพื่อประกอบธุรกิจได้นานเพียงพอเพื่อให้เกิดความคุ้มค่า รัฐบาลจึงได้ใช้แนวทางเดียวกันกับพระราชบัญญัติการเช่าอสังหาริมทรัพย์เพื่อพาณิชยกรรมและอุตสาหกรรม พ.ศ.2542 ซึ่งกำหนดให้นักลงทุนต่างชาติสามารถเช่าที่ดินในครั้งแรกได้ไม่เกิน 50 ปี และต่ออายุได้อีก 1 ครั้ง ไม่เกิน 49 ปี รวมเป็นให้เช่าได้สูงสุดไม่เกิน 99 ปี และนำมาระบุไว้ในร่างพระราชบัญญัติเขตพัฒนาพิเศษภาคตะวันออกด้วยถ้อยคำเดียวกันเพื่อให้เกิดความชัดเจนด้วย
+ 
+ร่วมเดินหน้าประเทศไทย กับสำนักโฆษก สำนักเลขาธิการนายกรัฐมนตรี
+
+
+
+ที่มา : http://www.thaigov.go.th/news/contents/details/3196
