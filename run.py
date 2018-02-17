@@ -3,10 +3,10 @@ import requests
 from bs4 import BeautifulSoup
 import codecs
 import re
-i=10153
+i=10155
 i2=1
 data={}
-while i<=10154:
+while i<=10156:
 	url="http://www.thaigov.go.th/news/contents/details/"+str(i)
 	try:
 		r = requests.get(url)
