@@ -1,96 +1,44 @@
 ﻿รัฐบาลไทย-ข่าวทำเนียบรัฐบาล-รายงานสถานะหนี้สาธารณะคงค้าง ณ สิ้นเดือนกุมภาพันธ์ 2560
 
-
-
-
-
-
-
-                                วันพุธที่ 12 เมษายน 2560                              
-
-
-
-
-
-    115  
-
-
-
-
-
-
-
-
-
-
-
-
-
-   รายงานสถานะหนี้สาธารณะคงค้าง ณ สิ้นเดือนกุมภาพันธ์ 2560
- 
-
-   นายธีรัชย์ อัตนวานิช ที่ปรึกษาด้านตลาดตราสารหนี้ ได้รายงานสถานะหนี้สาธารณะคงค้าง 
-
-
-
-
-
-
+วันพุธที่ 12 เมษายน 2560
+รายงานสถานะหนี้สาธารณะคงค้าง ณ สิ้นเดือนกุมภาพันธ์ 2560
+นายธีรัชย์ อัตนวานิช ที่ปรึกษาด้านตลาดตราสารหนี้ ได้รายงานสถานะหนี้สาธารณะคงค้าง
 นายธีรัชย์ อัตนวานิช ที่ปรึกษาด้านตลาดตราสารหนี้ ได้รายงานสถานะหนี้สาธารณะคงค้าง ดังนี้
-
 หนี้สาธารณะคงค้าง ณ วันที่ 28 กุมภาพันธ์ 2560 มีจำนวน 6,090,230.67 ล้านบาท โดยแบ่งเป็น หนี้รัฐบาล 4,637,934.90 ล้านบาท หนี้รัฐวิสาหกิจ 972,466.27 ล้านบาท หนี้รัฐวิสาหกิจที่เป็นสถาบันการเงิน (รัฐบาลค้ำประกัน) 460,477.61 ล้านบาท และ หนี้หน่วยงานของรัฐ 19,351.89 ล้านบาท เมื่อเปรียบเทียบกับเดือนก่อนหน้า หนี้สาธารณะคงค้างเพิ่มขึ้นสุทธิ 30,586.06 ล้านบาท หนี้สาธารณะคงค้างต่อ GDP ณ สิ้นเดือนกุมภาพันธ์ 2560 คิดเป็นร้อยละ 41.96 ของ GDP ลดลงเล็กน้อยเมื่อเทียบกับ ณ สิ้นเดือนมกราคม 2560         ที่ร้อยละ 41.97
-
 หนี้สาธารณะคงค้างจำนวน 6,090,230.67 ล้านบาท มีรายละเอียด ดังนี้
 * หนี้รัฐบาล จำนวน 4,637,934.90 ล้านบาท เพิ่มขึ้นสุทธิ 40,963.49 ล้านบาทโดยการเปลี่ยนแปลงที่สำคัญเกิดจาก
 • การกู้เงินเพื่อชดเชยการขาดดุลงบประมาณและการบริหารหนี้สาธารณะเพิ่มขึ้น 46,889.03 ล้านบาท โดยมีรายละเอียด ดังนี้
 - เงินกู้ระยะสั้น ลดลง 3,390 ล้านบาท เนื่องจากการลดลงของตั๋วเงินคลัง
-- เงินกู้ระยะยาว เพิ่มขึ้น 50,279.03 ล้านบาท เนื่องจากการกู้เงินเพื่อชดเชยการขาดดุลงบประมาณ  
+- เงินกู้ระยะยาว เพิ่มขึ้น 50,279.03 ล้านบาท เนื่องจากการกู้เงินเพื่อชดเชยการขาดดุลงบประมาณ
 • การกู้เงินเพื่อการลงทุนจากแหล่งเงินกู้ในประเทศ จำนวน 1,503.66 ล้านบาท โดยแบ่งเป็นการกู้ให้กู้ต่อแก่ (1) การรถไฟฟ้าขนส่งมวลชนแห่งประเทศไทยเบิกจ่ายเงินกู้จำนวน 909.18 ล้านบาท เพื่อจัดทำโครงการรถไฟฟ้าสายสีเขียว จำนวน 556.65 ล้านบาท และสีน้ำเงิน จำนวน 352.53 ล้านบาท และ (2) การรถไฟแห่งประเทศไทยเบิกจ่ายเงินกู้จำนวน 594.48 ล้านบาท เพื่อจัดทำโครงการก่อสร้างทางคู่ในเส้นทางรถไฟ สายชายฝั่งทะเลตะวันออก ช่วงฉะเชิงเทรา – คลองสิบเก้า - แก่งคอย จำนวน 306.39 ล้านบาท โครงการก่อสร้างรถไฟทางคู่ ช่วงชุมทางถนนจิระ – ขอนแก่น จำนวน 157.33 ล้านบาท โครงการปรับปรุงทางที่ไม่ปลอดภัยต่อการเดินรถ จำนวน 78.38 ล้านบาท และ โครงการรถไฟชานเมืองสายสีแดง ช่วงบางซื่อ - รังสิต จำนวน 52.38 ล้านบาท
 • การชำระหนี้ที่รัฐบาลกู้เพื่อชดเชยความเสียหายให้แก่กองทุนเพื่อการฟื้นฟูและพัฒนาระบบสถาบันการเงิน จำนวน 7,385.82 ล้านบาท โดยใช้เงินจากบัญชีสะสมเพื่อการชำระคืนต้นเงินกู้ชดใช้ความเสียหายของกองทุนเพื่อการฟื้นฟูฯ
 • หนี้ต่างประเทศลดลง 43.38 ล้านบาท เนื่องจากการชำระคืนหนี้โครงการเงินกู้ภายใต้แผนงานเงินกู้รัฐบาลญี่ปุ่นเพื่อกระตุ้นการฟื้นฟูเศรษฐกิจ 800.73 ล้านเยน หรือ 265.32 ล้านบาท โครงการปรับปรุงและพัฒนาทางหลวงของกรมทางหลวงชนบท 3.5 ล้านเหรียญสหรัฐ หรือ 109.17 ล้านบาท  โครงการก่อสร้างสะพานข้ามแม่น้ำเจ้าพระยาบริเวณถนนนนทบุรี 251.96 ล้านเยน หรือ 73.50 ล้านบาท และผลการเปลี่ยนแปลงของอัตราแลกเปลี่ยน รวมถึงการเบิกจ่ายโครงการรถไฟชานเมืองสายสีแดงช่วงบางซื่อ-รังสิต จำนวน1,667.34 ล้านเยน หรือ 522.68 ล้านบาท เป็นสำคัญ
-
 * หนี้ของรัฐวิสาหกิจ จำนวน 972,466.27 ล้านบาท ลดลงสุทธิ 7,014.04 ล้านบาท โดยการเปลี่ยนแปลงที่สำคัญเกิดจาก
 • หนี้ในประเทศลดลงสุทธิ 4,475.11 ล้านบาท โดยรายการที่สำคัญเกิดจากหนี้ที่รัฐบาลไม่ค้ำประกันมีการชำระคืนหนี้สุทธิ จำนวน 5,441.13 ล้านบาท ซึ่งมาจากการไฟฟ้าส่วนภูมิภาคไถ่ถอนพันธบัตรที่ครบกำหนด จำนวน 1,000 ล้านบาท และบริษัท ปตท. จำกัด (มหาชน) ไถ่ถอนหุ้นกู้ จำนวน 2,636 ล้านบาท เป็นสำคัญ
 • หนี้ต่างประเทศลดลง 2,538.93 ล้านบาท โดยรายการที่สำคัญเกิดจากการชำระคืนของบริษัท การบินไทย จำกัด (มหาชน) และผลการเปลี่ยนแปลงของอัตราแลกเปลี่ยน
-
 * หนี้ของรัฐวิสาหกิจที่เป็นสถาบันการเงิน (รัฐบาลค้ำประกัน) จำนวน 460,477.61 ล้านบาท ลดลงสุทธิ 3,208.18 ล้านบาท โดยรายการที่สำคัญเกิดจากการชำระคืนต้นเงินกู้ของธนาคารเพื่อการเกษตรและสหกรณ์การเกษตร
-
 * หนี้หน่วยงานของรัฐ จำนวน 19,351.89 ล้านบาท ลดลงสุทธิ 155.21 ล้านบาท จากการเบิกจ่ายจากแหล่งเงินกู้ต่างๆ น้อยกว่าชำระคืนต้นเงินกู้
-    
 หนี้สาธารณะ ณ สิ้นเดือนกุมภาพันธ์ 2560 จำนวน 6,090,230.67 ล้านบาท แบ่งออกเป็นหนี้ในประเทศ 5,769,794.70 ล้านบาท หรือร้อยละ 94.74 และหนี้ต่างประเทศ 320,435.97 ล้านบาท (ประมาณ 9,305 ล้านเหรียญสหรัฐ) หรือร้อยละ 5.26 ของหนี้สาธารณะคงค้างทั้งหมด และหนี้สาธารณะ      คงค้างแบ่งตามอายุคงเหลือ สามารถแบ่งออกเป็นหนี้ระยะยาว 5,330,110.48 ล้านบาท หรือร้อยละ 87.52 และหนี้ระยะสั้น 760,120.19  ล้านบาท หรือร้อยละ 12.48 ของหนี้สาธารณะคงค้างทั้งหมด
-
 คณะโฆษกสำนักงานบริหารหนี้สาธารณะ
 โทร. 02 265 8050 ต่อ 5520
-
 Public Debt Outstanding Report as of February 28, 2017
-
 Mr. Theeraj Athanavanich, Bond Market Advisor, reported that Thailand’s public debt outstanding as of February 28, 2017 was at 6,090,230.67 million Baht. The total public debt outstanding comprised 4,637,934.90 million Baht of Government debt, 972,466.27 million Baht of State-Owned Enterprises (SOEs) debt, 460,477.61 million Baht of Government Guaranteed Financial SOEs debt and 19,351.89 million Baht of Other Government Agencies debt. Compared with last month, public debt increased by 30,586.06 million Baht. Public debt to GDP as of February 2017 was 41.96 decreased slightly from the end of January 2017 (41.97%).
 * Government debt outstanding was at 4,637,934.90 million Baht, increasing by 40,963.49 million Baht. This change was mainly contributed from the followings:
 • Budget deficit financing and debt management increased by 46,889.03 million Baht.
 • Domestic debt to finance infrastructure investment increased by 1,503.66 million Baht which resulted from (1) an increase in On-lending debt by 909.18 million Baht to Mass Rapid Transit Authority of Thailand for the Blue Line and the Green Line Projects (2) an increase in On-lending debt by 594.48 million Baht to State Railway of Thailand for Double-track Chachoengsao-Klong 19-Kaeng Koi Project,  Red Line Mass Transit System Project, Track Strengthening Project and Double-track Jira Road-Khonkaen project.
-• Debt repayments under the Emergency Decree authorizing the MOF to Secure Loans for Financial Institutions Development Fund were made in the amount of 7,385.82 million Baht.  
+• Debt repayments under the Emergency Decree authorizing the MOF to Secure Loans for Financial Institutions Development Fund were made in the amount of 7,385.82 million Baht.
 • External debt decreased 43.38 million Baht mainly due to the principal repayment of
 Economic Recovery and Social Sector Program Loan, Highway Management Project, the disbursement of Red Line Mass Transit System project and changes in foreign exchange rates.
-
 * State-Owned Enterprise debt was at 972,466.27 million Baht, decreasing by 7,014.04 million Baht. This change was mainly contributed from the followings:
 • Domestic debt decreased 4,475.11 million Baht. This is resulted from the non-government guaranteed debt decreased in amount of 5,441.13 million Baht, mainly from the principal repayment of the Provincial Electricity Authority and PTT Public Co,.Ltd.
 • External debt decreased by 2,538.93 million Baht significantly due to the debt repayment of Thai Airways International Public Co., Ltd and changes in foreign exchange rates.
-
 * Financial State-Owned Enterprise debt (Government Guaranteed) was at 460,477.61 million Baht, decreasing by 3,208.18 million Baht. This change is resulted from the debt repayment by Bank for Agriculture and Agricultural Co-operatives.
-
 * Other Government Agencies debt was at 19,351.89 million Baht, decreasing by 155.21 million Baht due to the fact that disbursement was less than debt repayment of other government agencies.
-
-Public debt outstanding as of February 28, 2017 was at 6,090,230.67 million Baht, of which, 5,769,794.70 million Baht was domestic debt (94.74% of total public debt), and 320,435.97 million Baht was external debt (5.26% of total public debt).  
-
+Public debt outstanding as of February 28, 2017 was at 6,090,230.67 million Baht, of which, 5,769,794.70 million Baht was domestic debt (94.74% of total public debt), and 320,435.97 million Baht was external debt (5.26% of total public debt).
 Classified by remaining maturity, long-term debt outstanding was 5,330,110.48 million Baht (87.52% of total public debt) and short-term debt outstanding was 760,120.19 million Baht (12.48% of total public debt).
-
 Public Debt Management Office
 Tel. +66 2 265 8050 Ext. 5520
-
 ที่มา : กระทรวงการคลัง
 ผู้นำเสนอ : กลุ่มสารนิเทศการคลัง สำนักงานปลัดกระทรวงการคลัง
-  
-
-
 
 ที่มา : http://www.thaigov.go.th/news/contents/details/3044
