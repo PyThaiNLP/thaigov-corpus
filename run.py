@@ -22,7 +22,7 @@ while i<=10156:
 				for line in article.split('\n'):
 					line = line.strip()
 					if line:
-						_text = _text + line
+						_text = _text + '\n' + line
 				article = _text
 				
 				all = title + "\n\n" + article + "\n\nที่มา : " + url
