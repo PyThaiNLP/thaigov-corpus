@@ -1,44 +1,10 @@
 ﻿รัฐบาลไทย-ข่าวทำเนียบรัฐบาล-การประมูลพันธบัตรรัฐวิสาหกิจผ่านระบบ e-Bidding ครั้งแรกของประเทศไทย โดยมีพันธบัตร ธ.ก.ส. เป็นโครงการนำร่อง
 
-
-
-
-
-
-
-                                วันพุธที่ 1 กุมภาพันธ์ 2560                              
-
-
-
-
-
-    334  
-
-
-
-
-
-
-
-
-
-
-
-
-
-   การประมูลพันธบัตรรัฐวิสาหกิจผ่านระบบ e-Bidding ครั้งแรกของประเทศไทย โดยมีพันธบัตร ธ.ก.ส. เป็นโครงการนำร่อง
- 
-
-   ก.คลัง ธ.ก.ส. และ ธปท. ร่วมลงนามในบันทึกความตกลงว่าด้วยการจำหน่ายตราสารหนี้ของธนาคารเพื่อการเกษตรและสหกรณ์การเกษตร โดยวิธีการประมูลผ่านระบบอิเล็กทรอนิกส์ (e-Bidding) ซึ่งจะมีผลบังคับใช้วันที่ 14 กุมภาพันธ์ 2560 
-
-
-
-
-
-   นายสุวิชญ โรจนวานิช ผู้อำนวยการสำนักงานบริหารหนี้สาธารณะ ได้กล่าวว่า กระทรวงการคลัง ธนาคารเพื่อการเกษตรและสหกรณ์การเกษตร (ธ.ก.ส.) และธนาคารแห่งประเทศไทย (ธปท.) ได้ร่วมลงนามในบันทึกความตกลงว่าด้วยการจำหน่ายตราสารหนี้ของธนาคารเพื่อการเกษตรและสหกรณ์การเกษตร โดยวิธีการประมูลผ่านระบบอิเล็กทรอนิกส์ (e-Bidding) ซึ่งจะมีผลบังคับใช้วันที่ 14 กุมภาพันธ์ 2560
-
-ระบบ e-Bidding ของรัฐวิสาหกิจผ่าน Platform ของ ธปท. ได้พัฒนาให้เป็นแนวทางเดียวกับวิธีการประมูลพันธบัตรรัฐบาล (Loan Bond : LB) โดยให้พันธบัตร ธ.ก.ส. (Government Guaranteed Loan Bond : GGLB) เป็นโครงการนำร่อง เพราะเป็นพันธบัตรที่ได้รับความนิยมในกลุ่มนักลงทุนและมีสภาพคล่องจากการซื้อขายในตลาดรอง ตลอดจนยังมีคุณสมบัติที่เหมือนกับพันธบัตรรัฐบาล เพราะเป็นตราสารหนี้ที่กระทรวงการคลังค้ำประกันและรัฐบาลรับภาระต้นเงินและดอกเบี้ย ทั้งนี้ กระทรวงการคลังได้เห็นชอบการออกพันธบัตร ธ.ก.ส. ผ่านระบบ e-Bidding เป็นครั้งแรกในเดือนกุมภาพันธ์ และมีนาคม 2560 โดยเป็นการ Re-open พันธบัตร รุ่นอายุ 3 ปี (GGLB197A) และ 5 ปี (GGLB21NA) พร้อมกัน ซึ่งมีรายละเอียดการจำหน่ายดังนี้  
-
+วันพุธที่ 1 กุมภาพันธ์ 2560
+การประมูลพันธบัตรรัฐวิสาหกิจผ่านระบบ e-Bidding ครั้งแรกของประเทศไทย โดยมีพันธบัตร ธ.ก.ส. เป็นโครงการนำร่อง
+ก.คลัง ธ.ก.ส. และ ธปท. ร่วมลงนามในบันทึกความตกลงว่าด้วยการจำหน่ายตราสารหนี้ของธนาคารเพื่อการเกษตรและสหกรณ์การเกษตร โดยวิธีการประมูลผ่านระบบอิเล็กทรอนิกส์ (e-Bidding) ซึ่งจะมีผลบังคับใช้วันที่ 14 กุมภาพันธ์ 2560
+นายสุวิชญ โรจนวานิช ผู้อำนวยการสำนักงานบริหารหนี้สาธารณะ ได้กล่าวว่า กระทรวงการคลัง ธนาคารเพื่อการเกษตรและสหกรณ์การเกษตร (ธ.ก.ส.) และธนาคารแห่งประเทศไทย (ธปท.) ได้ร่วมลงนามในบันทึกความตกลงว่าด้วยการจำหน่ายตราสารหนี้ของธนาคารเพื่อการเกษตรและสหกรณ์การเกษตร โดยวิธีการประมูลผ่านระบบอิเล็กทรอนิกส์ (e-Bidding) ซึ่งจะมีผลบังคับใช้วันที่ 14 กุมภาพันธ์ 2560
+ระบบ e-Bidding ของรัฐวิสาหกิจผ่าน Platform ของ ธปท. ได้พัฒนาให้เป็นแนวทางเดียวกับวิธีการประมูลพันธบัตรรัฐบาล (Loan Bond : LB) โดยให้พันธบัตร ธ.ก.ส. (Government Guaranteed Loan Bond : GGLB) เป็นโครงการนำร่อง เพราะเป็นพันธบัตรที่ได้รับความนิยมในกลุ่มนักลงทุนและมีสภาพคล่องจากการซื้อขายในตลาดรอง ตลอดจนยังมีคุณสมบัติที่เหมือนกับพันธบัตรรัฐบาล เพราะเป็นตราสารหนี้ที่กระทรวงการคลังค้ำประกันและรัฐบาลรับภาระต้นเงินและดอกเบี้ย ทั้งนี้ กระทรวงการคลังได้เห็นชอบการออกพันธบัตร ธ.ก.ส. ผ่านระบบ e-Bidding เป็นครั้งแรกในเดือนกุมภาพันธ์ และมีนาคม 2560 โดยเป็นการ Re-open พันธบัตร รุ่นอายุ 3 ปี (GGLB197A) และ 5 ปี (GGLB21NA) พร้อมกัน ซึ่งมีรายละเอียดการจำหน่ายดังนี้
 ตาราง : รายละเอียดการจำหน่ายพันธบัตร ธ.ก.ส. ในไตรมาสที่ 2 ปีงบประมาณ 2560
 รายละเอียด    Re-open รุ่น GGLB197A    Re-open รุ่น GGLB21NA
 วงเงินกู้ (ล้านบาท)    ไม่เกิน 5,000    ไม่เกิน 5,000
@@ -49,24 +15,16 @@
 การค้ำประกัน    กระทรวงการคลังค้ำประกันต้นเงินและดอกเบี้ย
 (โดยใช้สัญญามาตรฐานของกระทรวงการคลัง)
 ผู้รับภาระชำระคืนต้นเงินและดอกเบี้ย    รัฐบาล
-
 สำหรับช่องทางวิธีการประมูลพันธบัตร ธ.ก.ส. (GGLB) เป็นรูปแบบการประมูลแบบ Multiple Price โดยผู้เสนออัตราดอกเบี้ยต่ำสุดจะได้รับการจัดสรรเป็นลำดับแรก ทั้งนี้ ช่องทาง รูปแบบ กลุ่มนักลงทุน และวิธีการเสนอซื้อ เป็นเช่นเดียวกันกับการประมูลพันธบัตรรัฐบาลทุกประการ โดยนักลงทุนสามารถติดตามแผนการออกพันธบัตร ธ.ก.ส. (GGLB) จากประกาศการจำหน่ายพันธบัตร ธ.ก.ส. ในระบบ e-Bidding ของ ธปท. รวมทั้งแผนการกู้เงินรายไตรมาสของรัฐวิสาหกิจที่กระทรวงการคลังจัดหาจากเว็บไซต์สำนักงานบริหารหนี้สาธารณะ(สบน.) ซึ่งการออกพันธบัตร ธ.ก.ส. (GGLB) จะมีการจำหน่ายอย่างสม่ำเสมอตลอดทั้งปี ทั้งนี้ สบน. จะติดตามและประเมินผลการดำเนินงานของระบบ โดยมีความยินดีอย่างยิ่งที่จะรับฟังข้อเสนอแนะจากผู้ที่มีส่วนเกี่ยวข้องทุกฝ่าย
-
 สบน. ได้มีการหารือกับ ThaiBMA และ PDs ให้ช่วยสนับสนุนการพัฒนาพันธบัตร ธ.ก.ส. (GGLB) ในการทำหน้าที่สื่อสารให้นักลงทุน และเป็น Market Maker ในขณะที่ ThaiBMA มีแผนที่จะพัฒนา Spread Matrix ของรัฐวิสาหกิจเพื่อให้เป็นอัตราอ้างอิงของรัฐวิสาหกิจอื่นๆ ต่อไป
-
 สบน. ขอขอบคุณสำหรับความร่วมมือและข้อเสนอแนะของท่าน สำหรับข้อสงสัยประการใดสามารถสอบถามได้ที่ 02-265-8050 ต่อ 5719
-
 สำนักงานบริหารหนี้สาธารณะ
 โทร. 02-265-8050 ต่อ 5719
-
 Thailand’s inaugural SOEs Bond e-Bidding : BAAC as a Pilot project
-
-Mr. Suwit Rojanavanich, Director General of the Public Debt Management Office, announced that the Ministry of Finance, Bank of Agriculture and Agricultural Cooperatives (BAAC) and the Bank of Thailand (BOT) will launch the SOEs electronic bidding (e-Bidding) platform as part of SOEs funding strategies 2020. The three parties have signed a Memorandum of Agreement (MOU) that will become effective as of February 14, 2017.  
-
-The Government Guaranteed Loan Bond (GGLB) of BAAC was selected as pilot project due to its market recognition and liquidity in the secondary market. Based on budgeted cashflows on debt service, the credit risks associated with GGLB are nearly identical to the government bond (Loan Bond : LB). The Ministry of Finance has endorsed the inaugural SOEs e-Bidding in February and March 2017, with the details as follows.  
- 
+Mr. Suwit Rojanavanich, Director General of the Public Debt Management Office, announced that the Ministry of Finance, Bank of Agriculture and Agricultural Cooperatives (BAAC) and the Bank of Thailand (BOT) will launch the SOEs electronic bidding (e-Bidding) platform as part of SOEs funding strategies 2020. The three parties have signed a Memorandum of Agreement (MOU) that will become effective as of February 14, 2017.
+The Government Guaranteed Loan Bond (GGLB) of BAAC was selected as pilot project due to its market recognition and liquidity in the secondary market. Based on budgeted cashflows on debt service, the credit risks associated with GGLB are nearly identical to the government bond (Loan Bond : LB). The Ministry of Finance has endorsed the inaugural SOEs e-Bidding in February and March 2017, with the details as follows.
 Table :  Details of GGLB e-Bidding schedule in the second quarter of FY2017
-    Re-open GGLB197A    Re-open GGLB21NA
+Re-open GGLB197A    Re-open GGLB21NA
 Amount (million baht)    Not exceeding 5,000    Not exceeding 5,000
 Time to Maturity    2 years 5 months    4 years 8 months
 Bidding Date    Monday, 20th February 2017    Monday, 20th March 2017
@@ -74,17 +32,11 @@ Payment Date (T+2)     Wednesday, 22nd February 2017    Wednesday, 22nd Ma
 Repayment Date    27 July 2019    26 November 2021
 Guarantor    Ministry of Finance (MOF standard Guarantee Agreement)
 Principle and Interest Financing Agent    Government
-
 PDMO plans to maintain regular issuance of GGLB throughout the year, where auction results and system performance will be closely monitored. Since GGLB and LB have similar tenors as BOT’s Bond, PDMO and BOT have agreed to ensure no competing issuances at any one time. Furthermore, PDMO will co-operate with ThaiBMA and MOF Outright PDs to encourage investors to participate in the primary market and to ensure liquidity in the secondary market. While PDs will assist in investor communication on features of GGLB, ThaiBMA will further develop SOE Spread Matrix, which will set benchmark for other SOEs borrowings. Given such, we would appreciate your value feedback and suggestions.
-
 Quarterly GGLB issuance schedule along with SOEs borrowing schedule will be posted on the PDMO’s website at least 1 week prior to the relevant quarter. PDMO would like to thank you in advance for your participation. For any queries please contact 02-265-8050 ext. 5719.
-
 Public Debt Management Office
 Tel. 02-265-8050 ext. 5719
-
 ที่มา : กระทรวงการคลัง
-ผู้นำเสนอ : กลุ่มสารนิเทศการคลัง สำนักงานปลัดกระทรวงการคลัง 
-
-
+ผู้นำเสนอ : กลุ่มสารนิเทศการคลัง สำนักงานปลัดกระทรวงการคลัง
 
 ที่มา : http://www.thaigov.go.th/news/contents/details/1657
