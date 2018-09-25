@@ -7,7 +7,7 @@ i=15010
 i2=1
 data={}
 headers = {'User-Agent': 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)'}
-while i<=16009:
+while i<=15659:
 	url="http://www.thaigov.go.th/news/contents/details/"+str(i)
 	try:
 		r = requests.get(url, headers=headers, timeout=60)
