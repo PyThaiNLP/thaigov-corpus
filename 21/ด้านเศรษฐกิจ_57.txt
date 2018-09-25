@@ -1,0 +1,15 @@
+﻿รัฐบาลไทย-ข่าวทำเนียบรัฐบาล-รมว.ดิจิทัลฯ เป็นประธานการประชุมร่วมกับ BSA The Software Alliance และกลุ่มบริษัทจากต่างประเทศ
+
+
+วันพฤหัสบดีที่ 6 กันยายน 2561
+117
+รมว.ดิจิทัลฯ เป็นประธานการประชุมร่วมกับ BSA The Software Alliance และกลุ่มบริษัทจากต่างประเทศ
+รมว.ดิจิทัลฯ
+p.p1 {margin: 0.0px 0.0px 10.0px 0.0px; font: 16.0px Helvetica; -webkit-text-stroke: #000000}
+p.p2 {margin: 0.0px 0.0px 10.0px 0.0px; font: 16.0px Helvetica; -webkit-text-stroke: #000000; min-height: 19.0px}
+p.p3 {margin: 0.0px 0.0px 10.0px 0.0px; text-align: center; font: 16.0px Helvetica; -webkit-text-stroke: #000000}
+span.s1 {font-kerning: none}
+ดร.พิเชฐ ดุรงคเวโรจน์ รัฐมนตรีว่าการกระทรวงดิจิทัลเพื่อเศรษฐกิจและสังคม (ดีอี) เป็นประธานการประชุมหารือร่วมกับตัวแทนจาก BSA The Software Alliance และตัวแทนจากบริษัทประเทศต่างๆ อาทิ Amazon Web Services, Microsoft Australia, Cisco System Inc., IBM และ Symantec Corporation เมื่อวันที่ 5 กันยายน 2561 ณ กรมอุตุนิยมวิทยา โดย รมว.กระทรวงดิจิทัลฯ ได้ให้ข้อมูลเกี่ยวกับการดำเนินงานของกระทรวงฯ ที่กำลังดำเนินการผลักดันอยู่ โดยแบ่งเป็น 5 ด้านสำคัญ ได้แก่ ด้านโครงสร้างพื้นฐานด้านดิจิทัล (Digital Infrastructure) ด้านความมั่นคงปลอดภัยทางไซเบอร์ (Cyber Security) ด้านการผลักดันรัฐบาลดิจิทัล (Digital Government) ด้านการพัฒนากำลังคนไซเบอร์ (Digital Manpower) และด้านการพัฒนาแอปพลิเคชั่น (Digital Application & Development) ตลอดจนการพัฒนาโครงการเขตส่งเสริมอุตสาหกรรมและนวัตกรรมดิจิทัล (Digital Park) ในเขตพัฒนาระเบียงเศรษฐกิจพิเศษภาคตะวันออก (EEC) ทั้งนี้ การประชุมหารือดังกล่าว ที่ประชุมมีเห็นควรให้ สำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิกส์ (องค์การมหาชน) หรือ สพธอ. จัดตั้ง Cyber Security Business Group และสร้าง Audit Assessment Program ขึ้น เพื่อประสานการทำงานร่วมกับศูนย์ความร่วมมือ อาเซียน - ญี่ปุ่น เพื่อพัฒนาบุคลากรความมั่นคงปลอดภัยไซเบอร์ (ASEAN-Japan Cybersecurity Capacity Building Program) ทั้งยังได้กล่าวถึงการดำเนินงานของกระทรวงดิจิทัลฯ ในปี 2562 ในชื่อ ASEAN Digital Agility ประกอบด้วยการพัฒนา 5 ด้าน ได้แก่ 1) Cyber Security เช่น Cyber War Game, Cyber Personnel Training 2) Smart City เช่น 26 Cities Conference, City Data Platform 3) Connectivity & Mobility เช่น ASEAN Submarine Cable Network, ASEAN Biometric VISA 4) Harmonization & Alignment เช่น ASEAN Data Protection Framework, ASEAN Single window และ 5) Manpower & Society เช่น ASEAN Startup Hackathon, Social Media Review, eSport in ASEAN นอกจากนี้ ยังได้มีการเชิญชวนกลุ่มบริษัทต่างๆ ให้เข้ามาลงทุนในประเทศไทยเพิ่มขึ้น เนื่องจากรัฐบาลไทยมีนโยบายสนับสนุนกลุ่มนักลงทุนในด้านต่างๆ มากมาย โดยเฉพาะการลงทุนในโครงการ Digital Park ในพื้นที่ EEC ซึ่งไทยกำลังให้ความสำคัญในการผลักดันเทคโนโลยีดิจิทัล เพื่อยกระดับเศรษฐกิจและสังคมของประเทศ
+*************************
+
+ที่มา : http://www.thaigov.go.th/news/contents/details/15213
