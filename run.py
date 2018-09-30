@@ -3,13 +3,14 @@ import requests
 from bs4 import BeautifulSoup
 import codecs
 import re
-i=10156
+i=15659+1
 i2=1
 data={}
-while i<=11666:
+headers = {'User-Agent': 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)'}
+while i<=15753:
 	url="http://www.thaigov.go.th/news/contents/details/"+str(i)
 	try:
-		r = requests.get(url)
+		r = requests.get(url, headers=headers, timeout=60)
 		print(i)
 		if r.status_code == 200:
 			title = re.search('<title>(.*?)</title>',r.text).group(1) #soup.title.text
