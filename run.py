@@ -3,12 +3,12 @@ import requests
 from bs4 import BeautifulSoup
 import codecs
 import re
-i=15659+1
+i=21654
 i2=1
 data={}
 headers = {'User-Agent': 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)'}
-while i<=15753:
-	url="http://www.thaigov.go.th/news/contents/details/"+str(i)
+while True:
+	url="https://www.thaigov.go.th/news/contents/details/"+str(i)
 	try:
 		r = requests.get(url, headers=headers, timeout=60)
 		print(i)
@@ -39,3 +39,4 @@ while i<=15753:
 		i+=1
 	except:
 		print("error")
+		i+=1
