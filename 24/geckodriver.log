@@ -1,0 +1,15 @@
+1552995380344	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Ci46CcxbcYGm"
+1552995381163	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552995381163	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552995385270	Marionette	INFO	Listening on port 34279
+1552995385372	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.thaigov.go.th/public/theme/default/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.thaigov.go.th/news/contents/details/17393, line 107: ReferenceError: stLight is not defined
+JavaScript warning: https://www.thaigov.go.th/public/theme/default/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.thaigov.go.th/news/contents/details/17394, line 107: ReferenceError: stLight is not defined
+JavaScript warning: https://www.thaigov.go.th/public/theme/default/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.thaigov.go.th/news/contents/details/17395, line 107: ReferenceError: stLight is not defined
+Exiting due to channel error.
+[Child 92899, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-DVGW0d/firefox-65.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+Exiting due to channel error.
+Exiting due to channel error.
