@@ -1,5 +1,28 @@
 # ThaiGov corpus
 
+## English
+- Data from Thai government website. https://www.thaigov.go.th
+- This part of PyThaiNLP Project.
+- Compiled by Mr.Wannaphong Phatthiyaphaibun
+- License Dataset is public domain.
+
+## Data format
+
+- 1 file, 1 news, which is extracted from 1 url.
+
+```
+topic
+(Blank line)
+content
+content
+content
+content
+content
+(Blank line)
+ที่มา (URL source) : http://www.thaigov.go.th/news/contents/details/NNN
+```
+
+## Thai
 - เป็นข้อมูลที่รวบรวมข่าวสารจากเว็บไซต์รัฐบาลไทย https://www.thaigov.go.th
 - โครงการนี้เป็นส่วนหนึ่งในแผนพัฒนา [PyThaiNLP](https://github.com/PyThaiNLP/)
 - รวบรวมโดย นาย วรรณพงษ์  ภัททิยไพบูลย์
@@ -7,12 +30,12 @@
 
 **สามารถติดตามประวัติการแก้ไขคลังข้อความนี้ได้ผ่านระบบ Git**
 
-## จำนวนข่าว
+### จำนวนข่าว
 
 - วันเริ่มต้นโครงการ 14 ก.พ. 2561
 - รวบรวมครั้งล่าสุด 01.50 น. วันที่ 18 มีนาคม พ.ศ.2563
 
-## รูปแบบข้อมูล
+### รูปแบบข้อมูล
 
 - 1 ไฟล์ 1 ข่าว ซึ่งดึงมาจาก 1 url
 
@@ -28,12 +51,12 @@
 ที่มา : http://www.thaigov.go.th/news/contents/details/NNN
 ```
 
-## รายละเอียดชื่อไฟล์
+### รายละเอียดชื่อไฟล์
 
 - ชื่อหมวดหมู่_จำนวนที่ของข่าว.txt
 - มีโฟลเดอร์ 1 - 24 (ไม่มีโฟลเดอร์ที่ 13)
 
-## Script
+### Script
 
 - run.py สำหรับเก็บข้อมูลจากหน้าเว็บ โดยจะดึงหน้าเว็บจาก url ```http://www.thaigov.go.th/news/contents/details/NNN``` โดยที่ NNN คือเลขจำนวนเต็ม
     - เปลี่ยนค่าตัวแปร i ในไฟล์เป็นเลขที่ต้องการเริ่มเก็บ
