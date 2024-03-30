@@ -1,5 +1,7 @@
 # ThaiGov corpus
 
+HuggingFace Dataset: [pythainlp/thaigov-corpus](https://huggingface.co/datasets/pythainlp/thaigov-corpus)
+
 ## English
 - Data from Thai government website. https://www.thaigov.go.th
 - This part of PyThaiNLP Project.
